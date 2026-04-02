@@ -1,11 +1,17 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Exploratory Data Analysis (EDA)
+
+### Module I: Reproducible Environments & Data Ingestion
+
 
 To start the slide show:
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
+```bash
+pnpm install
+pnpm dev
+```
 
-Edit the [slides.md](./slides.md) to see the changes.
+visit http://localhost:3030
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Edit the slides.md to see the changes.
+
+Learn more about Slidev at the documentation.
